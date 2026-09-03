@@ -18,8 +18,3 @@ A clean, responsive stopwatch web application developed using HTML5, CSS3, and v
 - **HTML5** – Markup structure
 - **CSS3** – Modern layout and dark UI styling
 - **JavaScript (ES6)** – Timer logic and DOM manipulation
-
----
-
-### 🚀 Live Demo
-[Click here to view the live project](https://<your-username>.github.io/PRODIGY_WD_02/)
